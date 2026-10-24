@@ -1,0 +1,426 @@
+[
+  {
+    "id": "demo-01",
+    "text": "为什么同一份清单，有的人越做越轻松？",
+    "author": "原创合成示例",
+    "title": "示例卡 1",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/1",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "为什么同一份清单，有的人越做越轻松？",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "问题悬念"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-02",
+    "text": "我用一个小实验，把桌面整理时间缩短了。",
+    "author": "原创合成示例",
+    "title": "示例卡 2",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/2",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "我用一个小实验，把桌面整理时间缩短了。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "亲身经历",
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-03",
+    "text": "如果你总忘记下一步，可以先试试这张卡。",
+    "author": "原创合成示例",
+    "title": "示例卡 3",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/3",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "如果你总忘记下一步，可以先试试这张卡。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-04",
+    "text": "给刚开始做笔记的人：先保留问题，再补答案。",
+    "author": "原创合成示例",
+    "title": "示例卡 4",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/4",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "给刚开始做笔记的人：先保留问题，再补答案。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-05",
+    "text": "我昨天试了两种归档方法，差别出在最后一步。",
+    "author": "原创合成示例",
+    "title": "示例卡 5",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/5",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "我昨天试了两种归档方法，差别出在最后一步。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "亲身经历",
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-06",
+    "text": "一分钟看懂这个本地工具是怎么工作的。",
+    "author": "原创合成示例",
+    "title": "示例卡 6",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/6",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "一分钟看懂这个本地工具是怎么工作的。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "时间与效率",
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-07",
+    "text": "做了十次之后，我才发现之前一直漏了这一步。",
+    "author": "原创合成示例",
+    "title": "示例卡 7",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/7",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "做了十次之后，我才发现之前一直漏了这一步。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "对比反差",
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-08",
+    "text": "不用复杂系统，三张卡就能记住今天的发现。",
+    "author": "原创合成示例",
+    "title": "示例卡 8",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/8",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "不用复杂系统，三张卡就能记住今天的发现。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-09",
+    "text": "这是我做出来的示例页面，先看效果再讲过程。",
+    "author": "原创合成示例",
+    "title": "示例卡 9",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/9",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "这是我做出来的示例页面，先看效果再讲过程。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "成果展示",
+      "亲身经历"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-10",
+    "text": "为什么任务越拆越多，却还是不知道从哪里开始？",
+    "author": "原创合成示例",
+    "title": "示例卡 10",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/10",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "为什么任务越拆越多，却还是不知道从哪里开始？",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "问题悬念",
+      "对比反差",
+      "痛点卡住"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-11",
+    "text": "把不确定的地方单独写下来，后面的步骤会清楚很多。",
+    "author": "原创合成示例",
+    "title": "示例卡 11",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/11",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "把不确定的地方单独写下来，后面的步骤会清楚很多。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-12",
+    "text": "给创作者的一个练习：同一个问题写三个开场。",
+    "author": "原创合成示例",
+    "title": "示例卡 12",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/12",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "给创作者的一个练习：同一个问题写三个开场。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "明确受众",
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-13",
+    "text": "我把一周的重复操作记了下来，找到了可以省去的环节。",
+    "author": "原创合成示例",
+    "title": "示例卡 13",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/13",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "我把一周的重复操作记了下来，找到了可以省去的环节。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "痛点卡住",
+      "亲身经历"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-14",
+    "text": "同样是整理资料，这个小变化让检索更容易了。",
+    "author": "原创合成示例",
+    "title": "示例卡 14",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/14",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "同样是整理资料，这个小变化让检索更容易了。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "对比反差"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-15",
+    "text": "从零开始搭一个能撤销选择的本地卡片页。",
+    "author": "原创合成示例",
+    "title": "示例卡 15",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/15",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "从零开始搭一个能撤销选择的本地卡片页。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "降低门槛",
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-16",
+    "text": "这不是产品效果承诺，只是一条用于演示的原创句子。",
+    "author": "原创合成示例",
+    "title": "示例卡 16",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/16",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "这不是产品效果承诺，只是一条用于演示的原创句子。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "成果展示",
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-17",
+    "text": "你更喜欢先看到结果，还是先知道发生了什么？",
+    "author": "原创合成示例",
+    "title": "示例卡 17",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/17",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "你更喜欢先看到结果，还是先知道发生了什么？",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "问题悬念"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-18",
+    "text": "两种开场放在一起时，偏好比想象中更明显。",
+    "author": "原创合成示例",
+    "title": "示例卡 18",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/18",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "两种开场放在一起时，偏好比想象中更明显。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-19",
+    "text": "一个经常被跳过的问题：这份记录下次怎么找到？",
+    "author": "原创合成示例",
+    "title": "示例卡 19",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/19",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "一个经常被跳过的问题：这份记录下次怎么找到？",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "问题悬念",
+      "数字信息"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  },
+  {
+    "id": "demo-20",
+    "text": "试着跳过这张卡，再回来看看你的判断有没有变化。",
+    "author": "原创合成示例",
+    "title": "示例卡 20",
+    "title_origin": "synthetic",
+    "url": "https://example.com/cards/20",
+    "likes": 0,
+    "published": "",
+    "snapshot": "synthetic-demo",
+    "source": "synthetic",
+    "asr": "试着跳过这张卡，再回来看看你的判断有没有变化。",
+    "basis": "原创示例，无真实作品数据",
+    "tags": [
+      "问题悬念"
+    ],
+    "review": {
+      "status": "approved"
+    },
+    "boundary_note": false
+  }
+]
